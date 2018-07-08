@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Language Translator</string>
+     <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Language Translator</string>
+    <string name="slide_1_desc">The way to learn and understand various Languages.</string>
+
+    <string name="slide_2_title">Speech To Text</string>
+    <string name="slide_2_desc">To make user friendly Interface we use Google Voice Input feature so using this you can give input fast and easily.</string>
+
+    <string name="slide_3_title">Text To Speech</string>
+    <string name="slide_3_desc">Listen the input text and translated text with a correct Pronounciation. </string>
+
+    <string name="slide_4_title">Translate</string>
+    <string name="slide_4_desc">You can Translate the English text into various languages with voice and text output.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="email">YourEmailAddress</string>
+    <string name="subject">Feedback on your app</string>
+    <string name="message">Hi,
+\n\nYour Language Translator app is very nice I would like to give you some feedback:</string>
+    <string name="feedback">Send feedback</string>
+</resources>
